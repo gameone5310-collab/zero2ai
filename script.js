@@ -1,7 +1,7 @@
 function buyProduct(name, price){
 
 var options = {
-key: "YOUR_RAZORPAY_KEY",
+key: "rzp_test_SQMsgnXc41ElCP",
 amount: price * 100,
 currency: "INR",
 name: "Creator Digital Store",
